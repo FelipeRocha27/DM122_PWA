@@ -7,9 +7,9 @@ self.addEventListener("install", function (e) {
       return cache
         .addAll([
           "./",
-          "../icons/list256.png",
-          "../icons/list512.png",
-          "./manifest.json",
+          "/icons/list256.png",
+          "/icons/list512.png",
+          "../manifest.json",
           "./index.js",
           "../index.html",
         ])
