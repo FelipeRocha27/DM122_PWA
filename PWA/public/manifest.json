@@ -1,0 +1,20 @@
+{
+    "name": "Sorveteria",
+    "short_name": "Sorveteria",
+    "icons": [
+      {
+        "src": "icons/list256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/list512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "start_url": "/",
+    "display": "standalone"
+  }
